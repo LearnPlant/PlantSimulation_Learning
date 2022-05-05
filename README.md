@@ -3,6 +3,8 @@
 ## [**Youtube 学习记录地址**](https://www.youtube.com/user/weitungwang/videos) 
 
 
+## [**博客地址**](https://learnplant.github.io/) 
+
 ### Plant_Simulation的学习记录
 
 学习日记：
