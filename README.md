@@ -8,11 +8,11 @@
 ### Plant_Simulation的学习记录
 
 学习日记：
-
-
+### 2022.05.20
+1. 修改[博客地址](https://learnplant.tk/)为 https://learnplant.tk/
 
 ### 2022.05.05
-1. 新增[博客地址](https://learnplant.github.io/) 。
+1. 新增[博客地址](https://learnplant.github.io/) ：https://learnplant.github.io/
 
 
 
